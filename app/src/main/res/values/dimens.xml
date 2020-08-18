@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editext">10dp</dimen>
+    <dimen name="textheight">05dp</dimen>
+    <dimen name="edittextmediam">16sp</dimen>
+</resources>
