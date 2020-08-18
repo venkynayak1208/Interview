@@ -26,10 +26,10 @@
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false"/>
-        <activity android:name=".task.view.InterviewActivity"
+        <activity android:name=".view.InterviewActivity"
             android:configChanges="orientation|keyboardHidden"
             ></activity>
-        <activity android:name=".task.SplashActivity"
+        <activity android:name=".SplashActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
